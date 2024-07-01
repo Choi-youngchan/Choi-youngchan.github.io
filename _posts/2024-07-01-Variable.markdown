@@ -3,7 +3,7 @@ layout: post
 title: Variable
 image: 8.jpg
 date: 2024-07-01 14:00:20 +0200
-tags: C#
+tags: [C#]
 categories: guide
 ---
 변수 선언하기
