@@ -35,14 +35,15 @@ categories: guide
 #### string 
 ### 논리
 #### bool - 1byte / true, false
-### 객체 object
+### 객체 
+#### object
 
 
 
 {% highlight markdown %}
-## int A = 24;
+### int A = 24;
 ### float B = 15.57f;
-#### Char C = 'T'
+### Char C = 'T'
 {% endhighlight %}
 
 ***
